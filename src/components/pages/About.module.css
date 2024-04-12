@@ -1,0 +1,29 @@
+.About {
+  background-color: darkgray;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  max-width: 700px;
+  min-width: 300px;
+}
+
+.About h1 {
+  background-color: #6a994e;
+  width: fit-content;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border: 2px solid #386641;
+}
+
+.About .text {
+  background-color: antiquewhite;
+  margin-top: 10px;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 8px;
+  border: 2px solid black;
+}

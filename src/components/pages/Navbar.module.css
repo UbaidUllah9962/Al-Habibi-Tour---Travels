@@ -1,0 +1,42 @@
+.navbar {
+  background-color: #219ebc;
+  padding: 20px;
+  min-width: 300px;
+  border: 2px solid white;
+  margin-bottom: 5px;
+}
+
+.main_heading {
+  background-color: #a7c957;
+  text-align: center;
+  width: max-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav {
+  background-color: #219ebc;
+  padding: 20px;
+  border-radius: 10px;
+  /* border: 2px dashed #dad7cd; */
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: sans-serif;
+  background-color: #a7c957;
+  border-radius: 8px;
+  padding: 10px;
+  border: 2px dashed #386641;
+}
+.nav ul li a :hover {
+  cursor: pointer;
+}

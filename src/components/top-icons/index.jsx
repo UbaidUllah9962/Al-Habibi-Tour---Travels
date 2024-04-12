@@ -2,7 +2,7 @@ function HeadIcons() {
   return (
     <div className="top_icons">
       <div className="icon_items">
-        <img src="public\asset\tour-guide.png" alt="" />
+        <img src="\public\asset\tour-guide.png" alt="" />
         <div className="top_guide">guide</div>
       </div>
       <div className="icon_items">
